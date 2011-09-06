@@ -1,1 +1,1 @@
-http://core.doap.com
+http://core.doap.com/
