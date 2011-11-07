@@ -1,0 +1,22 @@
+From 4f64e5840a98ad55840a0f72edbe557b528ba1df Mon Sep 17 00:00:00 2001
+From: David Menache <dave@doap.com>
+Date: Mon, 7 Nov 2011 07:12:08 -0800
+Subject: [PATCH 1/2] Commit via Mac
+
+---
+ README |    2 ++
+ 1 files changed, 2 insertions(+), 0 deletions(-)
+
+diff --git a/README b/README
+index 0f3350b..e55ab1d 100644
+--- a/README
++++ b/README
+@@ -4,3 +4,5 @@ done with javascript and html5 canvas.
+ by David Menache dave@doap.com
+ and 
+ Bobby Damery bobby@doap.com
++
++Visit Doap.com for a inexpensive self-serve CMS hosting solution.
+-- 
+1.7.7
+
